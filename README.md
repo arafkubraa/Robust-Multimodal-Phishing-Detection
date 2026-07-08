@@ -44,7 +44,7 @@ The project was developed through several architectural iterations.
 ## Final Architecture
 
 <p align="center">
-<img src="yenimimarimmtdrobust.png" width="900">
+<img src="nihaimimari.png" width="900">
 </p>
 
 ---
@@ -52,7 +52,7 @@ The project was developed through several architectural iterations.
 ## Future Research Direction
 
 <p align="center">
-<img src="MMTDAdvanced.png" width="900">
+<img src="yenimimarimmtdrobust.png" width="900">
 </p>
 
 Future work focuses on extending the current architecture with more adaptive multimodal fusion strategies, stronger uncertainty estimation, and robustness against increasingly challenging phishing scenarios.
