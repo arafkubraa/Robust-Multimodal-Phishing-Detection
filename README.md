@@ -120,7 +120,6 @@ https://github.com/RIA-lab/MMTD
 
 ---
 
-
 ## Authors
 
 - Kübra Atlan
